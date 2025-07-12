@@ -3,8 +3,8 @@ from tkinter import scrolledtext
 import requests
 
 # === Configuration ===
-WEBHOOK_URL = "https://eo50ibp0mhwd3eq.m.pipedream.net"  # <-- Replace this with your actual webhook or API URL
-USE_JSON = True  # Set to False if the API expects form data instead
+WEBHOOK_URL  # <-- Replace this with (your) actual webhook or API URL
+USE_JSON = True  # JSON stuff 
 
 # === GUI Setup ===
 root = tk.Tk()
